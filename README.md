@@ -15,7 +15,7 @@ __Container__ - running process isolated from host and other containers. Every c
 __Build__ - Build image with proper context
 
 ## Image
-`docker image ls` list all images
+`docker image ls`/`docker images` list all images
 
 
 ## Container
