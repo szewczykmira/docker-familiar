@@ -1,0 +1,3 @@
+[submodule "buletin_example/node-bulletin-board"]
+	path = buletin_example/node-bulletin-board
+	url = git@github.com:dockersamples/node-bulletin-board.git
