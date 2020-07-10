@@ -1,6 +1,12 @@
 # docker-familiar
 My systematised knowledge about docker.
 
+## Instalation
+To clone this repository please run this command:
+```sh
+git clone --recursive git@github.com:szewczykmira/docker-familiar.git
+```
+
 
 ## Dictrionary
 
