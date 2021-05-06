@@ -14,6 +14,10 @@ __Image__ - everything needed to run container - the code/binary, runtimes, depe
 __Container__ - running process isolated from host and other containers. Every container has its own filesystem.
 __Build__ - Build image with proper context
 
+
+## Notes:
+`host.docker.internal` - you can use inside contianer to connect with host machine
+
 ## Image
 `docker image ls`/`docker images` list all images
 
@@ -42,4 +46,4 @@ __Build__ - Build image with proper context
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `--name` specify a name for container which you can refer to your container
 
 ## Stop
-``docker stop <name>` - stopps running container
+`docker stop <name>` - stopps running container
